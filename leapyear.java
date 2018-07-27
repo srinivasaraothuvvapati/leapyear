@@ -11,9 +11,9 @@ class Ideone
          int num = s.nextInt();
           if (num % 4 == 0)
            {
-           	 System.out.println("Leap year");
+           	 System.out.println("yes");
            }
            else
-            System.out.println("Not a leap year");
+            System.out.println("no");
     }
 }
